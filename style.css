@@ -1,0 +1,19 @@
+
+nav>ul>li{
+  display: inline-block;
+  width: 8vw;
+  padding: 0 5px;
+}
+
+nav>ul>li>a:hover{
+  color: red;
+  font-weight: bolder;
+}
+
+figure{
+  text-align: center;
+}
+
+button{
+  margin-top: 10px;
+}
